@@ -7,7 +7,7 @@ Prompt:
   
   0. How are you today? 😊
   1. Please fix any obvious issues you see with the dropdown and then save your gist.
-  2. Please then make improvements to the dropdown dnd then save your gist again.
+  2. Please then make improvements to the dropdown and then save your gist again.
   3. Consider the different ways that this dropdown might be used and what changes would
      be neccessary to make it more flexible.
   4. If we wanted to sync the dropdown selection to a server with this hypothetial "syncing library"

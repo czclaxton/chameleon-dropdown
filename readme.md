@@ -13,5 +13,3 @@ have room for improvements (doesn't everything?) A couple items TODO here (make 
    the state be read again from the server to show the dropdown open/closed on page load?
 6. If we wanted to pass children (like this example) OR a Promise that resolves to an array of items
    what changes should be made? (just a sentence or two or some code is ok).
-
-PS: No need to worry about CSS or about making it actually run.
